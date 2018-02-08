@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "facing=up,powered=false": { "model": "normal_torch" },
+    "facing=east,powered=false": { "model": "normal_torch_wall" },
+    "facing=south,powered=false": { "model": "normal_torch_wall", "y": 90 },
+    "facing=west,powered=false": { "model": "normal_torch_wall", "y": 180 },
+    "facing=north,powered=false": { "model": "normal_torch_wall", "y": 270 },
+    "facing=up,powered=true": { "model": "normal_torch" },
+    "facing=east,powered=true": { "model": "normal_torch_wall" },
+    "facing=south,powered=true": { "model": "normal_torch_wall", "y": 90 },
+    "facing=west,powered=true": { "model": "normal_torch_wall", "y": 180 },
+    "facing=north,powered=true": { "model": "normal_torch_wall", "y": 270 }
+  }
+}

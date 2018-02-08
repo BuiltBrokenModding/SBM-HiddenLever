@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "hiddenlever",
+    "name": "[SBM] Hidden Lever",
+    "description": "Simple mod that adds several hidden levers and buttons to Minecraft",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "http://www.builtbroken.com",
+    "updateUrl": "",
+    "authorList": ["Hennamann"],
+    "credits": "Dmodoomsirius, Darkguardsman",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
